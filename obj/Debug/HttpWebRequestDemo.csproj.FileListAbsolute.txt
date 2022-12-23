@@ -1,0 +1,12 @@
+E:\FileDetails\A_工作项目\数据中心\01_参考资料\CallInterface\HttpWebRequestDemo\bin\Debug\WindowsFormsApp1.exe.config
+E:\FileDetails\A_工作项目\数据中心\01_参考资料\CallInterface\HttpWebRequestDemo\bin\Debug\WindowsFormsApp1.exe
+E:\FileDetails\A_工作项目\数据中心\01_参考资料\CallInterface\HttpWebRequestDemo\bin\Debug\WindowsFormsApp1.pdb
+E:\FileDetails\A_工作项目\数据中心\01_参考资料\CallInterface\HttpWebRequestDemo\bin\Debug\Newtonsoft.Json.dll
+E:\FileDetails\A_工作项目\数据中心\01_参考资料\CallInterface\HttpWebRequestDemo\obj\Debug\HttpWebRequestDemo.csprojAssemblyReference.cache
+E:\FileDetails\A_工作项目\数据中心\01_参考资料\CallInterface\HttpWebRequestDemo\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\FileDetails\A_工作项目\数据中心\01_参考资料\CallInterface\HttpWebRequestDemo\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\FileDetails\A_工作项目\数据中心\01_参考资料\CallInterface\HttpWebRequestDemo\obj\Debug\HttpWebRequestDemo.csproj.GenerateResource.cache
+E:\FileDetails\A_工作项目\数据中心\01_参考资料\CallInterface\HttpWebRequestDemo\obj\Debug\HttpWebRequestDemo.csproj.CoreCompileInputs.cache
+E:\FileDetails\A_工作项目\数据中心\01_参考资料\CallInterface\HttpWebRequestDemo\obj\Debug\HttpWebRequestDemo.csproj.CopyComplete
+E:\FileDetails\A_工作项目\数据中心\01_参考资料\CallInterface\HttpWebRequestDemo\obj\Debug\WindowsFormsApp1.exe
+E:\FileDetails\A_工作项目\数据中心\01_参考资料\CallInterface\HttpWebRequestDemo\obj\Debug\WindowsFormsApp1.pdb
